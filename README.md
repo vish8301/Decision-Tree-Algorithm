@@ -24,7 +24,7 @@ It features demographic information across 48,842 instances and is pre-split int
 pip install pandas scikit-learn matplotlib numpy graphviz
 ```
 
-### Project Tasks
+## Project Tasks
 - Data Quality Analysis: Identification and correction of data quality issues.
 - Decision Tree Modeling: Utilize DecisionTreeClassifier from scikit-learn to create models.
 - Performance Evaluation: Compute metrics like accuracy, precision, recall, and F1 score.
@@ -32,7 +32,7 @@ pip install pandas scikit-learn matplotlib numpy graphviz
 - Visualization: Use GraphViz to visualize the optimal decision tree.
 
 
-### Conclusion and Analysis
+## Conclusion and Analysis
 The best model had the following hyperparameters:
 - Split Criteria: ‘Gini Impurity’
 - Minimum Sample Leaf: 20
